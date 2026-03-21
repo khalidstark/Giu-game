@@ -27,7 +27,7 @@ import java.util.Set;
 
 import org.junit.Test;
 
-public class Milestone1PublicTests {
+public class tests {
 
 	private String gamePath="game.engine.Game";
 	private String boardPath="game.engine.Board";
@@ -2886,7 +2886,7 @@ public class Milestone1PublicTests {
 		testSetterAbsent("opponent", new String[] { gamePath });
 	}
 
-	// Getter logic and setter logic for Game (requires Game instance — use DataLoader CSVs)
+	// Getter logic and setter logic for Game (requires Game instance ï¿½ use DataLoader CSVs)
 
 
 	@Test(timeout = 1000)
